@@ -1,2 +1,3 @@
-# tienda87598-api
-ScrumDev AI backend (tienda87598-api)
+# Tienda87598 Backend
+
+Este es el backend del sistema de inventario para la tienda de ropa. Desarrollado con FastAPI.
